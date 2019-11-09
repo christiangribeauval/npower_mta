@@ -1,0 +1,8 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\bin\Debug\String Variables.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\bin\Debug\String Variables.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\bin\Debug\String Variables.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String Variables.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String_Variables.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String_Variables.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String Variables.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String Variables.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\String Variables\String Variables\obj\Debug\String Variables.pdb

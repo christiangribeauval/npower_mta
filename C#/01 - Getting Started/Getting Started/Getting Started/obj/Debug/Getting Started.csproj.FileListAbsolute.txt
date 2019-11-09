@@ -1,0 +1,6 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\obj\Debug\Getting Started.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\bin\Debug\Getting Started.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\bin\Debug\Getting Started.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\bin\Debug\Getting Started.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\obj\Debug\Getting Started.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\01 - Getting Started\Getting Started\Getting Started\obj\Debug\Getting Started.pdb
