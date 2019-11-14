@@ -1,0 +1,9 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\bin\Debug\Conditional Logic.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\bin\Debug\Conditional Logic.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\bin\Debug\Conditional Logic.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional Logic.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional_Logic.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional_Logic.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional Logic.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional Logic.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Conditional Logic\Conditional Logic\obj\Debug\Conditional Logic.pdb

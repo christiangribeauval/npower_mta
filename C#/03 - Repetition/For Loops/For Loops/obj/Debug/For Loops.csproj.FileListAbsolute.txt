@@ -1,0 +1,9 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\bin\Debug\For Loops.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\bin\Debug\For Loops.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\bin\Debug\For Loops.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For Loops.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For_Loops.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For_Loops.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For Loops.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For Loops.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\02 - Decision Structures\Loops\For Loops\For Loops\obj\Debug\For Loops.pdb
