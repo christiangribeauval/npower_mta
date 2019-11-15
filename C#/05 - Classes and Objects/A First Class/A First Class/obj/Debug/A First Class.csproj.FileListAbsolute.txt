@@ -1,0 +1,9 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A First Class.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A_First_Class.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A_First_Class.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A First Class.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\bin\Debug\A First Class.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\bin\Debug\A First Class.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\bin\Debug\A First Class.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A First Class.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\05 - Classes and Objects\A First Class\A First Class\obj\Debug\A First Class.pdb
