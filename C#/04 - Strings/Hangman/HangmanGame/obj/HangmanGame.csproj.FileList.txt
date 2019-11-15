@@ -1,0 +1,8 @@
+bin\Debug\HangmanGame.exe
+bin\Debug\HangmanGame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HangmanGame.Form1.resources
+obj\Debug\HangmanGame.Properties.Resources.resources
+obj\Debug\HangmanGame.csproj.GenerateResource.Cache
+obj\Debug\HangmanGame.exe
+obj\Debug\HangmanGame.pdb

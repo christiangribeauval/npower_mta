@@ -1,0 +1,8 @@
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\HangmanGame.exe
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\HangmanGame.pdb
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\bin\Debug\HangmanGame.exe
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\bin\Debug\HangmanGame.pdb
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\HangmanGame.Form1.resources
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\HangmanGame.Properties.Resources.resources
+C:\Documents and Settings\kayspc\My Documents\Visual Studio 2005\Projects\cSharp\hangmanGame\HangmanGame\HangmanGame\obj\Debug\HangmanGame.csproj.GenerateResource.Cache
