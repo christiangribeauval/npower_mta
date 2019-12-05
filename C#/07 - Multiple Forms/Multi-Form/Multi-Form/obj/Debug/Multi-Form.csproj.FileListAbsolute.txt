@@ -1,0 +1,10 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\bin\Debug\Multi-Form.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\bin\Debug\Multi-Form.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\bin\Debug\Multi-Form.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi-Form.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi_Form.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi_Form.Form2.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi_Form.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi-Form.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi-Form.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\07 - Multiple Forms\Multi-Form\Multi-Form\obj\Debug\Multi-Form.pdb

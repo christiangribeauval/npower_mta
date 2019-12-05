@@ -1,0 +1,9 @@
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\bin\Debug\Menus.exe.config
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.csprojAssemblyReference.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.Form1.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.exe
+C:\Users\Fury\Desktop\MTA SOFTWARE FUNDAMENTALS\Projects\npower_mta\C#\06 - Menus\Menus\Menus\obj\Debug\Menus.pdb
